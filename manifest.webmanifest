@@ -1,0 +1,11 @@
+{
+  "name": "Expedientes Médicos",
+  "short_name": "Expedientes",
+  "description": "Historial, medicamentos, exámenes y controles médicos con perfil y clave de acceso.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f2f7f9",
+  "theme_color": "#12627a",
+  "lang": "es",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
